@@ -1,4 +1,4 @@
-# Practice doc
+# Training doc
 
 This doc also needs more practice.
 
